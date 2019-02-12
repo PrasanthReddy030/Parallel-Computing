@@ -1,0 +1,2 @@
+g++ -O3 -std=c++11 -fPIC   -c -o prelim.o prelim.cpp
+g++  prelim.o -o prelim
